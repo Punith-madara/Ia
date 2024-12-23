@@ -1,9 +1,6 @@
-# EAST WEST INSTIUTE OF TECHNOLOGY
-DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
-DEPARTMENT OF ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
-Project Management with Git
-BCS358C – SEMESTER 3
-OBSERVATION BOOK
+
+
+
 EXPERIMENT-1
 
 
@@ -65,6 +62,11 @@ the repository.
 git commit -m "Added new feature"
 In summary, git init starts tracking a project, git add stages changes, and git commit saves those staged changes into
 the repository.
+
+
+
+
+
 EXPERIMENT-2
 
 
@@ -155,6 +157,9 @@ into the main project.
 
 
 EXPERIMENT-3
+
+
+
 Creating and Managing Branches
 Write the commands to stash your changes, switch branches, and then apply the stashed changes.
 Solution:
@@ -209,6 +214,9 @@ apply, or drop changes as needed while working on other features or resolving is
 
 
 EXPERIMENT-4
+
+
+
 Collaboration and Remote Repositories
 Clone a remote Git repository to your local machine.
 Solution:
@@ -333,6 +341,9 @@ git clone --branch develop https://github.com/user/repository.git
 
 
 EXPERIMENT-5
+
+
+
 Collaboration and Remote Repositories
 Fetch the latest changes from a remote repository and rebase your local branch onto the updated remote branch.
 Solution:
@@ -435,6 +446,8 @@ keep your project’s history clean and well-organized.
 
 
 EXPERIMENT-6
+
+
 Collaboration and Remote Repositories
 Write the command to merge "feature-branch" into "master" while providing a custom commit message for the
 merge.
@@ -466,6 +479,9 @@ message about the merge.
 
 
 EXPERIMENT-7
+
+
+
 Git Tags and Releases
 Write the command to create a lightweight Git tag named "v1.0" for a commit in your local repository.
 Solution:
@@ -499,6 +515,9 @@ Tags are static and do not change once created, making them ideal for marking ve
 
 
 EXPERIMENT-8
+
+
+
 Advanced Git Operations
 Write the command to cherry-pick a range of commits from "source-branch" to the current branch.
 Solution:
@@ -534,6 +553,8 @@ branch.
 
 
 EXPERIMENT-9
+
+
 Analysing and Changing Git History
 Given a commit ID, how would you use Git to view the details of that specific commit, including the author, date,
 and commit message?
@@ -589,6 +610,8 @@ Key Features:
 
 
 EXPERIMENT-10
+
+
 Analysing and Changing Git History
 Write the command to list all commits made by the author "JohnDoe" between "2023-01-01" and "2023-12-31."
 Solution:
@@ -624,6 +647,9 @@ during a year or a particular project phase.
 
 
 EXPERIMENT-11
+
+
+
 Analysing and Changing Git History
 Write the command to display the last five commits in the repository's history.
 Solution:
@@ -648,6 +674,8 @@ case, 5. So, -n 5 tells Git to display only the 5 most recent commits.
 
 
 EXPERIMENT-12
+
+
 Analysing and Changing Git History
 Write the command to undo the changes introduced by the commit with the ID "abc123".
 Solution:
